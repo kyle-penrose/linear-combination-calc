@@ -1,18 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
-float a[2];
-float b[2];
-float m[2];
-float c1;
-float c2;
-float x;
-char operatorA;
-char operatorB;
-char variable;
-char equals = '=';
-
 struct vec {
 	char name;
 	float x;
